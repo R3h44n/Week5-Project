@@ -1,0 +1,125 @@
+{
+    "reviews": [
+      {
+        "professor": "Dr. Jane Smith",
+        "subject": "Introduction to Psychology",
+        "stars": 5,
+        "review": "Dr. Smith is an incredible professor! Her lectures are engaging and insightful. Highly recommend her classes."
+      },
+      {
+        "professor": "Dr. Michael Johnson",
+        "subject": "Quantum Physics",
+        "stars": 4,
+        "review": "Challenging course, but Dr. Johnson makes complex topics understandable. Exams are tough but fair."
+      },
+      {
+        "professor": "Prof. Emily Davis",
+        "subject": "World History",
+        "stars": 3,
+        "review": "Decent professor, but the lectures can be a bit dry. Requires a lot of reading."
+      },
+      {
+        "professor": "Dr. William Brown",
+        "subject": "Organic Chemistry",
+        "stars": 2,
+        "review": "Not the best teaching style. Material is difficult and not well explained."
+      },
+      {
+        "professor": "Prof. Linda Wilson",
+        "subject": "Sociology 101",
+        "stars": 5,
+        "review": "Prof. Wilson is amazing! Her passion for sociology is contagious. Learned a lot in her class."
+      },
+      {
+        "professor": "Dr. Christopher Martinez",
+        "subject": "Calculus II",
+        "stars": 4,
+        "review": "Dr. Martinez is very knowledgeable, but the pace is fast. Be prepared to work hard."
+      },
+      {
+        "professor": "Prof. Patricia Garcia",
+        "subject": "American Literature",
+        "stars": 3,
+        "review": "Interesting course, but the professor can be a bit strict with grading."
+      },
+      {
+        "professor": "Dr. James Rodriguez",
+        "subject": "Microeconomics",
+        "stars": 5,
+        "review": "Great professor! Makes economics fun and easy to understand. Highly recommend."
+      },
+      {
+        "professor": "Prof. Barbara Lee",
+        "subject": "Art History",
+        "stars": 4,
+        "review": "Prof. Lee is very knowledgeable and passionate about art. Enjoyed the class."
+      },
+      {
+        "professor": "Dr. David Clark",
+        "subject": "Computer Science 101",
+        "stars": 2,
+        "review": "The material is difficult, and Dr. Clark's lectures are hard to follow."
+      },
+      {
+        "professor": "Prof. Elizabeth Lewis",
+        "subject": "Philosophy of Ethics",
+        "stars": 5,
+        "review": "One of the best professors I've had. Thought-provoking lectures and great discussions."
+      },
+      {
+        "professor": "Dr. Richard Walker",
+        "subject": "Genetics",
+        "stars": 3,
+        "review": "Solid professor, but the material is dense. Requires a lot of outside study."
+      },
+      {
+        "professor": "Prof. Jennifer Hall",
+        "subject": "Creative Writing",
+        "stars": 4,
+        "review": "Prof. Hall is very encouraging and provides great feedback on writing assignments."
+      },
+      {
+        "professor": "Dr. Charles Allen",
+        "subject": "Physics I",
+        "stars": 3,
+        "review": "Dr. Allen knows his stuff, but the course is very challenging. Labs are tough."
+      },
+      {
+        "professor": "Prof. Susan Young",
+        "subject": "Introduction to Marketing",
+        "stars": 4,
+        "review": "Very practical course with real-world applications. Prof. Young is engaging."
+      },
+      {
+        "professor": "Dr. Mark King",
+        "subject": "Biochemistry",
+        "stars": 5,
+        "review": "Excellent professor! Makes difficult concepts easy to grasp. Highly recommend."
+      },
+      {
+        "professor": "Prof. Karen Wright",
+        "subject": "Political Science",
+        "stars": 3,
+        "review": "The professor is knowledgeable, but the lectures can be a bit dry."
+      },
+      {
+        "professor": "Dr. John Harris",
+        "subject": "Statistics",
+        "stars": 4,
+        "review": "Dr. Harris is a good teacher. The course is challenging but manageable."
+      },
+      {
+        "professor": "Prof. Nancy Scott",
+        "subject": "Modern European History",
+        "stars": 5,
+        "review": "Prof. Scott is passionate about history and it shows in her lectures. Great class!"
+      },
+      {
+        "professor": "Dr. Robert Adams",
+        "subject": "Environmental Science",
+        "stars": 4,
+        "review": "Interesting course with a lot of hands-on learning. Dr. Adams is very knowledgeable."
+      }
+    ]
+  }
+  
